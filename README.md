@@ -6,7 +6,7 @@
 
 **Anbieter:** Gemeinsamer Bibliotheksverbund (GBV)
 
-**Zielgruppe:** Bibliotheksbeschäftigte mit Interesse an der selbständigten Verarbeitung von Daten
+**Zielgruppe:** Bibliotheksbeschäftigte mit Interesse an der selbständigen Verarbeitung von Daten
 
 **Voraussetzungen:** Grundlegende Kenntnisse von mindestens zwei Datenformaten, beispielsweise PICA und HTML
 
@@ -16,7 +16,7 @@
 * Bibliographische Datenformate (PICA, MARC, ONIX...)
 * Schnittstellen zum Lesezugriff (SRU, OAI-PMH, unAPI, DAIA...)
 
-Ziel der Fortbildung ist dass die Teilnehmer*innen Datenformate und Schnittstellen anschließend besser einordnen und sich leichter in neue Formate und Formatbeschreibungen einarbeiten können.
+Ziel der Fortbildung ist, dass die Teilnehmer*innen Datenformate und Schnittstellen anschließend besser einordnen und sich leichter in neue Formate und Formatbeschreibungen einarbeiten können.
 
 **Teilnehmende:** bis zu 12
 
