@@ -24,6 +24,8 @@ Ziel der Fortbildung ist dass die Teilnehmer*innen Datenformate und Schnittstell
 
 **Termin:** zweites Halbjahr 2019
 
+**Referent:** Jakob Voß, VZG
+
 ---
 
 *Unter <https://format.gbv.de/> gibt es eine begleitende Formatdatenbank mit weiteren Hintergrundinformationen zum Thema.*
