@@ -2,6 +2,8 @@
 
 > Material zur gleichnamigen [Fortbildung für Bibliothekar*innen in Niedersachsen](http://www.bibfin.de/)
 
+*Siehe [Link zur Fortbildung im Seminarfinder](http://www.bibfin.de/index.php?id=10&gwlbseminar%5Bseminarcontent%5D=271&gwlbseminar%5Baction%5D=show&cHash=d4376f2881f90044997b22743ecdacbf)*
+
 **Themenbereich:** IT und Internet
 
 **Anbieter:** Gemeinsamer Bibliotheksverbund (GBV)
@@ -20,9 +22,11 @@ Ziel der Fortbildung ist dass die Teilnehmer\*innen Datenformate und Schnittstel
 
 **Teilnehmende:** bis zu 12
 
-**Ort:** Verbundzentrale des GBV (VZG)
+**Ort:** Verbundzentrale des GBV (VZG), Schulungsraum
 
-**Termin:** zweites Halbjahr 2019
+**Termin:** 
+* Do., 19. September 2019, 10:30–16:30 Uhr (öffentlich)
+* Fr., 20. September 2019, 09:00–14:30 Uhr (VZG-intern)
 
 **Referent:** Jakob Voß, VZG
 
