@@ -2,7 +2,7 @@
 
 > Material zur gleichnamigen [Fortbildung für Bibliothekar*innen in Niedersachsen](http://www.bibfin.de/)
 
-*Siehe [Link zur Fortbildung im Seminarfinder](http://www.bibfin.de/index.php?id=10&gwlbseminar%5Bseminarcontent%5D=271&gwlbseminar%5Baction%5D=show&cHash=d4376f2881f90044997b22743ecdacbf)*
+*Siehe [Link zur Fortbildung im Seminarfinder](http://www.bibfin.de/index.php?id=10&gwlbseminar%5Bseminarcontent%5D=271&gwlbseminar%5Baction%5D=show)*
 
 **Themenbereich:** IT und Internet
 
