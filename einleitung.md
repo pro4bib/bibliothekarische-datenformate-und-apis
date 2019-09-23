@@ -20,27 +20,26 @@ author:
 
 4. Arten von Datenformaten
 
-5. Weitere Bibliothekarische Datenformate
+*Mittagspause*
+
+5. Werkzeuge zur Arbeit mit Bibliothekarischen Datenformaten
 
 6. Bibliothekarische Schnittstellen
-
-
-*Soweit wir in 3.5 Stunden kommen!*
 
 
 # Hallo (nochmal)!
 
 ## Übung zum Kennenlernen
 
-* Gruppen á 4-5 Personen
+* Gruppen á 3-4 Personen
 
-* 5 Minuten Datenerfassung (auf Papier)
+* 5-10 Minuten Datenerfassung (Datenträger: Papier)
 
 * Erst Absprache in der Gruppe über das Vorgehen
 
 * Eine Person pro Gruppe notiert Vorgehen und Herausforderungen
 
-* Bitte nicht bei den Anderen spicken!
+* Bitte nicht einfach bei den Anderen kopieren!
 
 . . .
 
@@ -48,7 +47,7 @@ author:
 
     * Name
 
-    * Affiliation
+    * Geburtsort
 
     . . .
 

@@ -17,7 +17,9 @@ Grundlegende Arten von Daten:
 
 * Daten als digitale Dokumente
 
-Mehr in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://libreas.eu/ausgabe23/02voss/>
+\hfill
+
+Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://libreas.eu/ausgabe23/02voss/>
 
 ## Daten als Fakten
 
@@ -26,6 +28,8 @@ Mehr in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://libreas.eu/
 * Beschreiben die Wirklichkeit (z.B. Formalerschließung)
 
 . . .
+
+\hfill
 
 *Achtung: Wirklichkeit wird auch durch Daten erzeugt/beeinflusst!*
 
@@ -37,6 +41,8 @@ Mehr in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://libreas.eu/
 
 * Video/Audio-Aufzeichnungen
 
+\hfill
+
 *$\Rightarrow$ Für Bibliotheken eher Inhalte*
 
 ## Daten als digitale Dokumente
@@ -47,15 +53,28 @@ Mehr in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://libreas.eu/
 
 * Zeichen unbekannter oder irrelevanter Bedeutung
 
+\hfill
+
 *Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Tafelbild*
+
+## Ebenen der Datenmodellierung
+
+* *Wirklichkeit bzw. deren Beobachtungen*
+* Vorstellungen (Modell im Kopf)
+* Datenmodell
+* Datenformat
+* Syntax
+* Zeichen/Kodierung
+* Bytes
+* Bits
 
 # Weitere Grundbegriffe
 
-## Weitere Grundbegriffe
-
-* Datensatz
+## Weitere Grundbegriffe?
 
 * Datum
+
+* Datensatz
 
 * Datenbank
 
@@ -66,5 +85,4 @@ Mehr in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://libreas.eu/
 * Metadaten
 
 * ...?
-
 

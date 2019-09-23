@@ -6,6 +6,30 @@ author:
 toc: true
 ...
 
+# Was ist eine Schnittstelle?
+
+## Finden wir es heraus!
+
+Vier Gruppen:
+
+* Schnittstelle (hat die Datenbank)
+
+* Transport (Internet)
+
+* 2x Client-Anwendungen (stellen Anfragen)
+
+*Kommunikation zwischen den Gruppen nur per Daten, d.g. niemand darf mit den Anderen Gruppen reden!*
+
+## Schnittstellen
+
+* Teil eines Systems welcher der Kommunikation mit anderen Systemen dient.
+
+* Rest des Systems ist nicht zugänglich (Black-Box)
+
+* Kommunikation per festgelegten Protokollen und -Formaten
+
+<https://de.wikipedia.org/wiki/Schnittstelle>
+
 # Grundlagen (HTTP)
 
 ## Warum das _Hypertext Transfer Protocol_ (HTTP)?
@@ -124,5 +148,5 @@ Beispiele: SQL, SPARQL, GraphQL
 
 Übung: https://query.wikidata.org/
 
-# Fragen?
+# Fragen? Vertiefung?
 

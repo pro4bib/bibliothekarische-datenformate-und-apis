@@ -5,55 +5,86 @@ author:
 - Jakob Voß
 ...
 
-# Konkrete Datenformate
+# Was gibt es für Datenformat?
 
-## DatenFormateRateSpiel
+## Umfage
+
+*Welche Datenformate kennen Sie?*
+
+## Datenformate-Ratespiel
 
 *1. Frage: Welche Datenformate sind das oder könnten das sein?*
 
 * Wieder in Kleingruppen
 
-* Mehrfachantworten möglich
+* Mehrfachantworten sind möglich
 
 * Bitte leserliche Karteikarten
 
-## DatenFormateRateSpiel
+* Umhängen ist erlaubt
+
+## Datenformate-Ratespiel
 
 *2. Frage: Welche relevanten Datenformate fehlen?*
 
+# Vertiefende Beispiele
+
+* PICA
+* MARC
+* JSON
+* PICA/JSON
+
 ## PICA
 
-...
+* Internes Datenformat der Bibliotheksysteme von OCLC PICA
+* Feld-Unterfeld-Struktur
+* Pica3/PICA+
+* Verschiedene konkrete Anwendungsprofile
+    * [K10Plus Katalogisierungsformat](http://format.gbv.de/pica/k10plus)
+    * [GND-Internformat](http://format.gbv.de/pica/gnd)
+    * ...
 
-## JSON
+## Machine-Readable Cataloging (MARC)
 
-<http://json.org>
+* Bibliothekarischer Datenaustausch seit den 1960ern
+* Noch immer wichtigstes Format für Bibliotheksdaten
+* *MARC Must Die* (Tennant, 2007)
 
-Tools, u.A:
+<http://www.loc.gov/marc/>
 
-* <https://jsoneditoronline.org/>
+## JavaScript Object Notation (JSON)
 
-## JSKOS
+* Definiert unter <http://json.org>
+* Objekte, Arrays, Strings, Zahlen, Boolean, Null
+* Inzwischen wichtigstes allgemeines Strukturierungsformat
+* Grundlage zahlreicher Datenformate und Kodierungen
+    * JSKOS
+    * BibJSON
+    * PICA/JSON
+    * ...
 
-* <https://gbv.github.io/jskos/jskos.html>
+## Wie hängen Datenformate zusammen?
 
-## jq
-
-* <https://jqplay.org/>
-
-## XML
-
-Beispiel XHTML
-
-## XPath
-
-<http://xpather.com/>
-
-## Wie hängt das alles zusammen?
-
-* PICA/JSON
-* PICA/XML
+* Kodierungen
+    * PICA/JSON, PICA+, PICA/XML...
+    * MARC/JSON, MARC/XML, MARC Maker, ISO MARC...
+* Formatbeschreibungen
+* Schemas
 * ...
+
+## Was ist eigentlich ein Datenformat?
+
+* Formale Regeln (Schemas)
+    * Menge von *möglichen* Dokumenten (meist unendlich)
+    * Basieren auf einer Strukturierungssprache
+    * Syntax
+* Weitere implizite oder semi-formale Regeln
+    * Was ist erlaubt/nicht erlaubt?
+    * Teils in Software versteckt
+* Semantik
+    * Das was Menschen erwarten
+* Praxis
+    * Wie es tatsächlich angewandt wird
 
 # Arten von Datenformaten
 
@@ -71,9 +102,13 @@ Beispiel XHTML
 
 ## Datenformate nach Einsatzzweck
 
-*3. Fragen: Wie lassen sich die Datenformate nach Einsatzzweck gruppieren?*
+*3. Fragen: Wie lassen sich die Datenformate nach Einsatzzweck gruppieren? Wofürwerden Datenformate angewandt?*
+
+*Gruppen bilden in Gruppen!*
 
 ## Bibliographische Datenformate (Metadatenformate)
+
+Beschreiben Publikationen oder andere Dokumente
 
 * MARC
 * PICA
@@ -81,7 +116,19 @@ Beispiel XHTML
 * BibTeX
 * ...
 
+## Normdatenformate
+
+Beschreiben Entitäten (Personen, Orte, Organisationen, Themen...)
+
+* MARC
+* PICA
+* SKOS
+* JSKOS
+* ...
+
 ## Dokumentformate
+
+Enthalten Dokumente
 
 * HTML
 * LaTeX
@@ -90,26 +137,35 @@ Beispiel XHTML
 
 ## Strukturierungssprachen
 
+Strukturieren Daten in kleinere Einheiten
+
 * JSON
 * XML
 * CSV
 * *Excel?*
 * *PICA?*
+* ...
 
 ## Abfragesprachen
 
+Dienen zur Abfrage/Referenzierung von Teilen aus Datensätzen
+
 * XPath
+* JSON Pointer
 * jq
 * SQL
+* MARCspec
 * ...
 
-*Beziehen sich immer auf eine Strukturierungssprache*
+*Beziehen sich immer auf eine Strukturierungssprache!*
 
 ## Schemasprachen
+
+Legen (und beschreiben) eine Teilmenge einer Datenstrukturierungssprache fest: formale Definition eines Datenformats.
 
 * JSON Schema
 * XML Schema
 * Avram
 * ...
 
-*Beziehen sich immer auf eine Strukturierungssprache*
+*Beziehen sich immer auf eine Strukturierungssprache!*
