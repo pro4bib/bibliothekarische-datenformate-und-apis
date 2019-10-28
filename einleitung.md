@@ -1,6 +1,7 @@
 ---
 title: Bibliothekarische Datenformate und Schnittstellen
 subtitle: Einleitung
+language: de
 author:
 - Jakob Voß
 ...
@@ -33,13 +34,14 @@ author:
 
 * Gruppen á 3-4 Personen
 
-* 5-10 Minuten Datenerfassung (Datenträger: Papier)
+* 5-10 Minuten **Datenerfassung** (Datenträger: Papier)
 
 * Erst Absprache in der Gruppe über das Vorgehen
 
-* Eine Person pro Gruppe notiert Vorgehen und Herausforderungen
+* Eine Person pro Gruppe notiert und berichtet anschließend:
+  Vorgehen und Herausforderungen
 
-* Bitte nicht einfach bei den Anderen kopieren!
+* Bitte erstmal jede Gruppe für sich!
 
 . . .
 
@@ -63,5 +65,26 @@ author:
 
 . . .
 
-* Anderes Beispiel: Automatische Erfassung/Messung
+* Frage: (Wie) ließe sich die Liste automatisch erstellen?
 
+## Einige Herausforderungen bei der Datenerfassung
+
+* Ansetzungsformen
+* Granularität
+* Syntax (Trennzeichen u.A.)
+* Feldnamen
+* NULL-Werte
+* Datengrundlage
+* ...
+
+---
+
+![](img/datentraeger.jpg){width=100%}
+
+<!--
+
+* <https://tools.wmflabs.org/reasonator/?q=Q1414837>
+* <https://register.dpma.de/DPMAregister/marke/register/665624/DE>
+* ...
+
+-->

@@ -1,6 +1,7 @@
 ---
 title: Bibliothekarische Datenformate und Schnittstellen
 subtitle: Datenformate
+language: de
 author:
 - Jakob Voß
 ...
@@ -23,6 +24,8 @@ author:
 
 * Umhängen ist erlaubt
 
+* Bitte nicht einfach im Internet nachschlagen!
+
 ## Datenformate-Ratespiel
 
 *2. Frage: Welche relevanten Datenformate fehlen?*
@@ -37,12 +40,13 @@ author:
 ## PICA
 
 * Internes Datenformat der Bibliotheksysteme von OCLC PICA
-* Feld-Unterfeld-Struktur
+* Feld-Unterfeld-Struktur (oder: Ebenen)
 * Pica3/PICA+
 * Verschiedene konkrete Anwendungsprofile
     * [K10Plus Katalogisierungsformat](http://format.gbv.de/pica/k10plus)
     * [GND-Internformat](http://format.gbv.de/pica/gnd)
     * ...
+* Beispiele: siehe OPAC oder WinIBW
 
 ## Machine-Readable Cataloging (MARC)
 

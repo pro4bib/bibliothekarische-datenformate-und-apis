@@ -27,7 +27,10 @@ Ziel der Fortbildung ist dass die Teilnehmer\*innen Datenformate und Schnittstel
 **Termine:** 
 * Fr., 20. September 2019, 08:30–12:30 Uhr (VZG-intern)
 * Mo., 23. September 2019, 10:30–16:30 Uhr (öffentlich, [siehe Anmeldung](https://www.gbv.de/bibliotheken/verbundbibliotheken/02Verbund/05Fortbildung/2019/bibliothekarische-datenformate-und-schnittstellen))
-* Mo., 28. Oktober 2019, 10:30–16:30 Uhr (öffentlich, [siehe Anmeldung](https://www.gbv.de/bibliotheken/verbundbibliotheken/02Verbund/05Fortbildung/2019/bibliothekarische-datenformate-und-schnittstellen))
+* Mo., 28. Oktober 2019, 10:30–16:00 Uhr (öffentlich, [siehe Anmeldung](https://www.gbv.de/bibliotheken/verbundbibliotheken/02Verbund/05Fortbildung/2019/bibliothekarische-datenformate-und-schnittstellen))
+* Frühjahr 2020 (Termin steht noch nicht fest)
+* Herbst 2020 (Termin steht noch nicht fest)
+* ...
 
 **Referent:** Jakob Voß, VZG
 

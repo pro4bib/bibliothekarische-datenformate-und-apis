@@ -1,6 +1,7 @@
 ---
 title: Bibliothekarische Datenformate und Schnittstellen
 subtitle: Theoretische Grundlagen
+language: de
 author:
 - Jakob Voß
 ...
@@ -33,6 +34,8 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 *Achtung: Wirklichkeit wird auch durch Daten erzeugt/beeinflusst!*
 
+*Problem: Gleiche Fakten, unterschiedliche Daten*
+
 ## Daten als Beobachtungen
 
 * Grundsätzlich subjektiv (z.B. Sacherschließung)
@@ -53,22 +56,33 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 * Zeichen unbekannter oder irrelevanter Bedeutung
 
+<<<<<<< HEAD
 \hfill
 
 *Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Tafelbild*
 
 ## Ebenen der Datenmodellierung
+=======
+*Lassen sich gut automatisch verarbeiten*
+
+*Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Tafelbild*
+
+## Datenmodellierung
 
 * *Wirklichkeit bzw. deren Beobachtungen*
 * Vorstellungen (Modell im Kopf)
 * Datenmodell
 * Datenformat
-* Syntax
+* Syntax ($\rightarrow$ Texteditor mit Syntax-Highlightung) 
 * Zeichen/Kodierung
 * Bytes
 * Bits
 
-# Weitere Grundbegriffe
+*Frage: Wer muss sich mit welcher Ebene auskennen?*
+
+## Datenmodellierung, vereinfachte Darstellung
+
+![](img/data-modeling-simplified.png){width=95% height=30%}
 
 ## Weitere Grundbegriffe?
 

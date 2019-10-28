@@ -1,6 +1,7 @@
 ---
 title: Bibliothekarische Schnittstellen
 subtitle: Exemplarische APIs zum Lesezugriff
+language: de
 author:
 - Jakob Voß
 toc: true
