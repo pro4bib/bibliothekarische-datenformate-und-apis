@@ -56,18 +56,13 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 * Zeichen unbekannter oder irrelevanter Bedeutung
 
-<<<<<<< HEAD
 \hfill
 
-*Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Tafelbild*
-
-## Ebenen der Datenmodellierung
-=======
 *Lassen sich gut automatisch verarbeiten*
 
 *Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Tafelbild*
 
-## Datenmodellierung
+## Ebenen der Datenmodellierung
 
 * *Wirklichkeit bzw. deren Beobachtungen*
 * Vorstellungen (Modell im Kopf)
