@@ -16,21 +16,22 @@
 
 * Allgemeine Strukturierungsformate (XML, JSON, CSV, ...)
 * Bibliographische Datenformate (PICA, MARC, ONIX, ...)
-* Schnittstellen zum Lesezugriff (SRU, OAI-PMH, unAPI, DAIA, ...)
+* Schnittstellen zum Lesezugriff auf Katalogdaten (unAPI, SRU, DAIA ...)
 
 Ziel der Fortbildung ist dass die Teilnehmer\*innen Datenformate und Schnittstellen anschließend besser einordnen und sich leichter in neue Formate und Formatbeschreibungen einarbeiten können.
 
-**Teilnehmende:** bis zu 12
+**Teilnehmende:** bis zu 15
 
 **Ort:** Verbundzentrale des GBV (VZG), Schulungsraum
 
 **Termine:** 
-* Fr., 20. September 2019, 08:30–12:30 Uhr (VZG-intern)
-* Mo., 23. September 2019, 10:30–16:30 Uhr (öffentlich, [siehe Anmeldung](https://www.gbv.de/bibliotheken/verbundbibliotheken/02Verbund/05Fortbildung/2019/bibliothekarische-datenformate-und-schnittstellen))
-* Mo., 28. Oktober 2019, 10:30–16:00 Uhr (öffentlich, [siehe Anmeldung](https://www.gbv.de/bibliotheken/verbundbibliotheken/02Verbund/05Fortbildung/2019/bibliothekarische-datenformate-und-schnittstellen))
-* Frühjahr 2020 (Termin steht noch nicht fest)
-* Herbst 2020 (Termin steht noch nicht fest)
+
 * ...
+* Herbst 2020 (Termin steht noch nicht fest)
+* Frühjahr 2020 (Termin steht noch nicht fest)
+* Mo., 28. Oktober 2019, 10:30–16:00 Uhr (öffentlich)
+* Mo., 23. September 2019, 10:30–16:30 Uhr (öffentlich)
+* Fr., 20. September 2019, 08:30–12:30 Uhr (VZG-intern)
 
 **Referent:** Jakob Voß, VZG
 
