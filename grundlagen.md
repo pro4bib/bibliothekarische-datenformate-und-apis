@@ -60,7 +60,7 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 *Lassen sich gut automatisch verarbeiten*
 
-*Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Tafelbild*
+*Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Ebenen!*
 
 ## Ebenen der Datenmodellierung
 
@@ -77,7 +77,7 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 ## Datenmodellierung, vereinfachte Darstellung
 
-![](img/data-modeling-simplified.png){width=95% height=30%}
+![](img/data-modeling-simplified.png){width=100% height=30%}
 
 ## Weitere Grundbegriffe?
 

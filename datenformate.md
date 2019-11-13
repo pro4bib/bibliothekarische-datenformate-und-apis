@@ -48,6 +48,21 @@ author:
     * ...
 * Beispiele: siehe OPAC oder WinIBW
 
+<!-- TODO: Ansicht mit verstecktem Link und PP%7F -->
+
+## PICA-Datenmodell
+
+* field, tag, occurrence
+* subfield, code, value
+
+und/oder
+
+* level 0
+* level 1
+* level 2
+
+<!-- TODO: Avram hier einführen? -->
+
 ## Machine-Readable Cataloging (MARC)
 
 * Bibliothekarischer Datenaustausch seit den 1960ern
@@ -55,6 +70,8 @@ author:
 * *MARC Must Die* (Tennant, 2007)
 
 <http://www.loc.gov/marc/>
+
+<!-- TODO: Spezifikation, Varianten, Serialisierungen, Schema/Richtlinien -->
 
 ## JavaScript Object Notation (JSON)
 
@@ -66,6 +83,13 @@ author:
     * BibJSON
     * PICA/JSON
     * ...
+
+<!-- TODO: Übung jq-online? -->
+
+<!-- TODO: XML (Modell und Beispiele, XPath, XPointer... -->
+<!-- TODO: RDF ... -->
+
+<!-- TODO: ONIX als Beispiel? -->
 
 ## Wie hängen Datenformate zusammen?
 
@@ -173,3 +197,5 @@ Legen (und beschreiben) eine Teilmenge einer Datenstrukturierungssprache fest: f
 * ...
 
 *Beziehen sich immer auf eine Strukturierungssprache!*
+
+<!-- TODO: Containerformate? -->

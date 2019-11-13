@@ -113,7 +113,7 @@ _Übung: MARC-Datensätze vergleichen_
 
 # Komplexere Abfragen (SRU)
 
-...
+* <http://sru.k10plus.de/>
 
 ~~~
 catmandu convert SRU --base http://sru.gbv.de/opac-de-204\
@@ -126,6 +126,9 @@ catmandu convert SRU --base http://sru.gbv.de/opac-de-204\
 ...
 
 # Authentifizierung (PAIA)
+
+* <http://paia.gbv.de/>
+* <http://gbv.github.io/paia/>
 
 ...
 
