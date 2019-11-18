@@ -26,9 +26,10 @@ Ziel der Fortbildung ist dass die Teilnehmer\*innen Datenformate und Schnittstel
 
 **Termine:** 
 
-* ...
-* Herbst 2020 (Termin steht noch nicht fest)
-* Frühjahr 2020 (Termin steht noch nicht fest)
+* Herbst 2020 (bei Bedarf, Termine stehen noch nicht fest)
+* Montag, 27.1.2020, 10:30-16:30 Uhr
+* Donnerstag, 14.5.2020, 10:30-16:30 Uhr
+* Montag, 9.3.2020, 10:30-16 Uhr
 * Mo., 28. Oktober 2019, 10:30–16:00 Uhr (öffentlich)
 * Mo., 23. September 2019, 10:30–16:30 Uhr (öffentlich)
 * Fr., 20. September 2019, 08:30–12:30 Uhr (VZG-intern)
