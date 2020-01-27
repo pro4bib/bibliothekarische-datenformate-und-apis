@@ -150,7 +150,7 @@ Beispiele: SQL, SPARQL, GraphQL
 * SPARQL-Endpunkte 
 * Kenntniss der verwendeten Ontologien hilfreich
 
-Übung: https://query.wikidata.org/
+Mögliche Übung: https://query.wikidata.org/
 
 # Fragen? Vertiefung?
 

@@ -10,12 +10,12 @@ author:
 
 ## Was ist geplant?
 
-1. Hallo! (*Kennenlernen*)
+1. Übung zum Kennenlernen
 
 2. Theoretische Grundlagen
 
     * *Was sind Daten?*
-    * *Weitere Grundbegriffe*
+    * *Grundbegriffe*
 
 3. Konkrete Datenformate
 
@@ -77,14 +77,4 @@ author:
 * Datengrundlage
 * ...
 
----
 
-![](img/datentraeger.jpg){width=100%}
-
-<!--
-
-* <https://tools.wmflabs.org/reasonator/?q=Q1414837>
-* <https://register.dpma.de/DPMAregister/marke/register/665624/DE>
-* ...
-
--->

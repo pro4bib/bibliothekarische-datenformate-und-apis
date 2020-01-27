@@ -40,7 +40,8 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 * Grundsätzlich subjektiv (z.B. Sacherschließung)
 
-* Kontextwissen und Einordnung notwendig (z.B. historische Forschungsdaten)
+* Kontextwissen und Einordnung notwendig\
+  (z.B. historische Forschungsdaten)
 
 * Video/Audio-Aufzeichnungen
 
@@ -60,7 +61,7 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 *Lassen sich gut automatisch verarbeiten*
 
-*Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Ebenen!*
+*Frage: Wo kommt die Bedeutung her? $\Rightarrow$ Ebenen der Kodierung!*
 
 ## Ebenen der Datenmodellierung
 
@@ -77,21 +78,41 @@ Ausführlicher in: *Was sind eigentlich Daten?* In: LIBREAS 23 (2013) <https://l
 
 ## Datenmodellierung, vereinfachte Darstellung
 
-![](img/data-modeling-simplified.png){width=100% height=30%}
+![](img/data-modeling-simplified.png){width=100% height=25%}
 
-## Weitere Grundbegriffe?
+# Weitere Grundbegriffe
+
+---
+
+![](img/datentraeger.jpg){width=100%}
+
+## Weitere Grundbegriffe
+
+* Datenträger
+
+* Datenübertragung
 
 * Datum
 
 * Datensatz
 
-* Datenbank
-
-* Datenbanksystem
-
 * Datei
+
+* Datenbank
 
 * Metadaten
 
+* Datenbanksystem
+
 * ...?
 
+## Zusammenfassung
+
+Was kann gemeint sein wenn von Daten gesprochen wird?
+
+* digital verfügbare **Fakten**
+* digital aufgezeichnete **Beobachtungen**
+* digitale **Dokumente** mit Kodierungs-Ebenen
+ 
+Viele mögliche Ebenen der Datenmodellierung\
+von **Vorstellungen** bis zu **Bits**
