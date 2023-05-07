@@ -1,42 +1,19 @@
-# Bibliothekarische Datenformate und Schnittstellen
+# Metadatengrundlagen-Tutorial
 
-> Material zur gleichnamigen [Fortbildung für Bibliothekar*innen in Niedersachsen](http://www.bibfin.de/)
+> Material zum Hands-on-Tutorial auf dem [DINI AG KIM Workshop 2023](https://wiki.dnb.de/display/DINIAGKIM/KIM+Workshop+2023) (`#kimws23`)
 
-*Siehe [Link zur Fortbildung im Seminarfinder](http://www.bibfin.de/index.php?id=10&gwlbseminar%5Bseminarcontent%5D=271&gwlbseminar%5Baction%5D=show)*
+**Inhalt:** Die Welt der Metadaten zeichnet sich durch eine Vielzahl von Formaten, Standards, Profilen und Akronymen aus. Nicht selten besteht die Herausforderung von Interoperabilität darin,  herauszufinden, was überhaupt mit Daten gemeint ist. Im Workshop soll etwas Licht in den Dschungel der Formate und Techniken für Metadaten gebracht werden. Behandelt werden weniger einzelne Formate im Detail, sondern grundlegende Fragen wie Arten, Eigenschaften, Bestandteile und Beziehungen von Metadaten sowie wesentliche Mittel zu ihrer Verarbeitung und Analyse. Bitte bringen Sie viele Fragen mit!
 
-**Themenbereich:** IT und Internet
+**Zielgruppe:** Menschen, die mehr über Metadaten wissen wollen.
 
-**Anbieter:** Gemeinsamer Bibliotheksverbund (GBV)
+**Vorkenntnisse:** Rudimentäre Kenntnisse verschiedener Datenformate sind von Vorteil, aber nicht erforderlich.
 
-**Zielgruppe:** Bibliotheksbeschäftigte mit Interesse an der selbständigen Verarbeitung von Daten
+**Voraussetzungen:** Stift, Papier, ggf. Notebook oder Tablet.
 
-**Voraussetzungen:** Grundlegende Kenntnisse von mindestens zwei Datenformaten, beispielsweise PICA und HTML
+**Teilnehmeranzahl:** max. 20
 
-**Inhalt:** Seit Erscheinen der letzten Ausgabe von Eversbergs *[Was sind und was sollen Bibliothekarische Datenformate?](http://www.allegro-c.de/formate/formneu.htm)* vor mehr als zwanzig Jahren ist die Anzahl für Bibliotheken relevanter Arten zur Strukturierung und Bereitstellung von Daten nicht weniger geworden. Die Fortbildung soll einen groben Überblick über wesentliche Formatfamilien und APIs bieten, insbesondere:
+**Zeit und Ort:** 8. Mai 2034, 13:30-17:30, Universität Mannheim
 
-* Allgemeine Strukturierungsformate (XML, JSON, CSV, ...)
-* Bibliographische Datenformate (PICA, MARC, ONIX, ...)
-* Schnittstellen zum Lesezugriff auf Katalogdaten (unAPI, SRU, DAIA ...)
+**Material:**
 
-Ziel der Fortbildung ist dass die Teilnehmer\*innen Datenformate und Schnittstellen anschließend besser einordnen und sich leichter in neue Formate und Formatbeschreibungen einarbeiten können.
-
-**Teilnehmende:** bis zu 15
-
-**Ort:** Verbundzentrale des GBV (VZG), Schulungsraum
-
-**Termine:** 
-
-* Herbst 2020 (bei Bedarf, Termine stehen noch nicht fest)
-* Montag, 27.1.2020, 10:30-16:30 Uhr
-* Donnerstag, 14.5.2020, 10:30-16:30 Uhr
-* Montag, 9.3.2020, 10:30-16 Uhr
-* Mo., 28. Oktober 2019, 10:30–16:00 Uhr (öffentlich)
-* Mo., 23. September 2019, 10:30–16:30 Uhr (öffentlich)
-* Fr., 20. September 2019, 08:30–12:30 Uhr (VZG-intern)
-
-**Referent:** Jakob Voß, VZG
-
----
-
-*Unter <https://format.gbv.de/> gibt es eine begleitende Formatdatenbank mit weiteren Hintergrundinformationen zum Thema.*
-
+Unter <https://format.gbv.de/> gibt es eine begleitende Formatdatenbank mit weiteren Hintergrundinformationen zum Thema.
