@@ -17,3 +17,21 @@
 **Material:**
 
 Unter <https://format.gbv.de/> gibt es eine begleitende Formatdatenbank mit weiteren Hintergrundinformationen zum Thema.
+
+## Grober Zeitplan und Folien
+
+- [Einleitung](einleitung.md): [PDF](einleitung.pdf)
+    - Begrüßung & Datenerfassungs-Übung zum Kennenlernen
+
+- [Grundlagen](grundlagen.md): [PDF](grundlagen.pdf) *14:00*
+    - Grundlegende Arten von Daten
+    - Datenmodellierung
+
+- [Datenformate](datenformate.md): [PDF](datenformate.pdf) *14:30*
+    - Spiel: Datenformate erkennen
+    - Beispiele von Datenformaten
+
+- Pause  *15:30-16:00*
+
+    - [Arten](arten.md) von Datenformaten    
+    - ggf. Weitere Beispiele und [Werkzeuge](werkzeuge.md), [Schnittstellen](apis.md)

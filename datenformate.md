@@ -28,7 +28,7 @@ subtitle: Datenformate
 
 # Beispiele von Datenformaten
 
-## Tab-Separated Values
+## 1: Tab-Separated Values
 
 - Tabellarisches Format
 - Zeilen und Spalten
@@ -37,7 +37,7 @@ subtitle: Datenformate
 
 *Vor- und Nachteile?*
 
-## JavaScript Object Notation (JSON)
+## 2: JavaScript Object Notation (JSON)
 
 - Inspiriert von JavaScript
 - Inzwischen wichtigstes allgemeines Strukturierungsformat
@@ -68,97 +68,7 @@ Lokal
 - Schemasprachen: JSON Schema...
 - Zahlreichen Kodierungen *in* JSON: JSON-LD, PICA/JSON... 
 
-## Datenformate nach Einsatzzweck
-
-*3. Fragen: Wie lassen sich die Datenformate nach Einsatzzweck gruppieren? Wofürwerden Datenformate angewandt?*
-
-*Gruppen bilden in Gruppen!*
-
-## Bibliographische Datenformate (Metadatenformate)
-
-Beschreiben Publikationen oder andere Dokumente
-
-- MARC
-- PICA
-- ONIX
-- BibTeX
-- ...
-
-## Normdatenformate
-
-Beschreiben Entitäten (Personen, Orte, Organisationen, Themen...)
-
-- MARC
-- PICA
-- SKOS
-- JSKOS
-- ...
-
-## Dokumentformate
-
-Enthalten Dokumente
-
-- HTML
-- LaTeX
-- TEI
-- ...
-
-## Strukturierungssprachen
-
-Strukturieren Daten in kleinere Einheiten
-
-- JSON
-- XML
-- CSV
-- *Excel?*
-- *PICA?*
-- ...
-
-## Abfragesprachen
-
-Dienen zur Abfrage/Referenzierung von Teilen aus Datensätzen
-
-- XPath
-- JSON Pointer
-- jq
-- SQL
-- MARCspec
-- ...
-
-*Beziehen sich immer auf eine Strukturierungssprache!*
-
-## Schemasprachen
-
-Legen (und beschreiben) eine Teilmenge einer Datenstrukturierungssprache fest: formale Definition eines Datenformats.
-
-- JSON Schema
-- XML Schema
-- Avram
-- ...
-
-*Beziehen sich immer auf eine Strukturierungssprache!*
-
-## Containerformate
-
-<!-- TODO: Containerformate? -->
-
-- Gepacktes Verzeichnis (ZIP, TAR...)
-- METS/MODS?
-- ...
-# Vertiefende Beispiele
-
-- PICA
-- MARC
-- JSON
-- PICA/JSON
-
-# Arten von Datenformaten (I)    
-
-## Datenstrukturierungssprachen
-
-
-
-## PICA
+## 3: PICA-Format
 
 - Internes Datenformat der Bibliotheksysteme von OCLC PICA
 - Feld-Unterfeld-Struktur (oder: Ebenen)
@@ -167,7 +77,7 @@ Legen (und beschreiben) eine Teilmenge einer Datenstrukturierungssprache fest: f
     - [K10Plus Katalogisierungsformat](http://format.gbv.de/pica/k10plus)
     - [GND-Internformat](http://format.gbv.de/pica/gnd)
     - ...
-- Beispiele: siehe OPAC oder WinIBW
+- Beispiele: siehe OPAC oder WinIBW-Client
 
 <!-- TODO: Ansicht mit verstecktem Link und PP%7F -->
 
@@ -184,58 +94,21 @@ und/oder
 
 <!-- TODO: Avram hier einführen? -->
 
-## Machine-Readable Cataloging (MARC)
+## Datenformate rund um PICA
 
-- Bibliothekarischer Datenaustausch seit den 1960ern
-- Noch immer wichtigstes Format für Bibliotheksdaten
-- *MARC Must Die* (Tennant, 2007)
+Serialisierungen/Kodierungen
 
-<http://www.loc.gov/marc/>
-
-<!-- TODO: Spezifikation, Varianten, Serialisierungen, Schema/Richtlinien -->
-
-<!-- TODO: Übung jq-online? -->
-
-<!-- TODO: XML (Modell und Beispiele, XPath, XPointer... -->
-<!-- TODO: RDF ... -->
-
-<!-- TODO: ONIX als Beispiel? -->
-
-## Wie hängen Datenformate zusammen?
-
-- Kodierungen
-    - PICA/JSON, PICA+, PICA/XML...
-    - MARC/JSON, MARC/XML, MARC Maker, ISO MARC...
-- Formatbeschreibungen
-- Schemas
+- PICA Plain
+- PICA/XML
+- PICA/JSON
 - ...
 
-## Was ist eigentlich ein Datenformat?
+Sprachen für PICA
 
-- Formale Regeln (Schemas)
-    - Menge von *möglichen* Dokumenten (meist unendlich)
-    - Basieren auf einer Strukturierungssprache
-    - Syntax
-- Weitere implizite oder semi-formale Regeln
-    - Was ist erlaubt/nicht erlaubt?
-    - Teils in Software versteckt
-- Semantik
-    - Das was Menschen erwarten
-- Praxis
-    - Wie es tatsächlich angewandt wird
+- Abfragesprache _PICA Path_
+- Änderungsformat _PICA Patch_
+- Schemasprache _Avram_
 
-# Arten von Datenformaten
-
-## Einordnung von Datenformaten
-
-- Nach Einsatzzweck
-
-- Nach Herkunft
-
-- Nach Eigenschaften
-
-- Nach Beziehungen untereinander
-
-- ...
+# Weitere konkreten Formate?
 
 

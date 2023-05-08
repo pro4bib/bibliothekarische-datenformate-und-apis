@@ -1,8 +1,5 @@
 ---
-title: Bibliothekarische Datenformate und Schnittstellen
 subtitle: Werkzeuge
-author:
-- Jakob Voß
 ...
 
 # Werkzeuge
