@@ -33,5 +33,4 @@ Unter <https://format.gbv.de/> gibt es eine begleitende Formatdatenbank mit weit
 
 - Pause  *15:30-16:00*
 
-    - [Arten](arten.md) von Datenformaten    
-    - ggf. Weitere Beispiele und [Werkzeuge](werkzeuge.md), [Schnittstellen](apis.md)
+- [Arten](arten.md) von Datenformaten    
